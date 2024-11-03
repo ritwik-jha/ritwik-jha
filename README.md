@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ritwik-jha
-- 👀 I’m interested in Machine Learning, Python, DSA and Cloud Computing 
-- 🌱 I’m currently learning DSA in c++
+- 👋 Hi, I’m Ritwik
+- 👀 I work mostly with core java, spring, spring MVC, spring boot and AWS. 
+- 🌱 I’m currently trying to learn Rust
 - 💞️ I’m looking to collaborate on development projects
 - 📫 Reach me on my email or linkedin
 
